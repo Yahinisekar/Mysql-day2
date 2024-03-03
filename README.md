@@ -1,4 +1,4 @@
-## Zen Class - MySQL Day 2 Task
+## Zen Class DB model - MySQL Day 2 Task
 ## Overview
  Note:  `This repository contains a word document if you want to see you can download it`.
 - This repository contains the MySQL database schema and SQL statements for designing a Zen class model. The model includes tables for storing information about students, mentor, classes, class, and enrollment details.
